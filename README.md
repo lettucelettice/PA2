@@ -4,7 +4,7 @@ This repository feautures Python scripts designed to solve varipus problems in E
 
 ### 1. Normalization Problem
 
-###### This problem involves normalizing a random 5x5 array. The task is to creare a random 5x5 array, normalize it by centering (subtracting the mean), scaling (dividing by the standard deviation), and saving the normalized array as a file named X_normalized.npy.
+###### This problem involves normalizing a random 5x5 array. The task is to create a random 5x5 array, normalize it by centering (subtracting the mean), scaling (dividing by the standard deviation), and saving the normalized array as a file named X_normalized.npy.
 
 **Function:**
 
