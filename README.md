@@ -1,6 +1,6 @@
 # EXPERIMENT 2 - NUMERICAL PYTHON
 
-This repository feautures Python scripts designed to solve varipus problems in ECE2112. Below is a summary of each script included. 
+This repository features Python scripts designed to solve various problems in ECE2112. Below is a summary of each script. 
 
 ### 1. Normalization Problem
 
